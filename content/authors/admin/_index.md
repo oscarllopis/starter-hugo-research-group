@@ -1,73 +1,31 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+role: Profesor Ayudante Doctor
+bio: ""
+interests: []
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:oscar.llopis@uv.es
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Ollop
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.es/citations?user=Gx9olv4AAAAJ&hl=es
+organizations:
+  - name: Universidad de Valencia
+    url: ""
+education:
+  courses: []
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
+title: Oscar Llopis
+email: ""
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Oscar Llopis es Profesor Ayudante Doctor en el Departament de Direcció d'Empreses de la Universitat de València. Anteriormente, fue Ayudante Doctor en la Rennes School of Business, Investigador postdoctoral en la Universidad de Burdeos, y estudiante de doctorado en INGENIO (CSIC-UPV). Sus principales áreas de investigación se centran en los procesos asociados con la gestión del conocimiento en contextos públicos y privados, abordado desde distintos ámbitos. También analiza los procesos de gestión de la innovación, la compartición de conocimiento y la toma de riesgos dentro de las organizaciones como fuente de innovación. Sus investigaciones han sido publicadas en revistas de reconocido prestigio, tales como Research Policy, R&D Management o European Management Journal. Está involucrado activamente en la comunidad científica mediante su participación habitual en congresos internacionales. Ha realizado estancias de investigación en la Copenhagen Business School, la Universidad de Pisa y la Universidad de Gotemburgo, y ha participado en diversos proyectos de investigación competitivos.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
