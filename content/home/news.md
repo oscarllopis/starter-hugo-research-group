@@ -3,7 +3,7 @@ widget: pages
 headless: true
 weight: 20
 title: Novedades
-subtitle: null
+subtitle: Últimas noticias de nuestro grupo de investigación
 content:
   count: 5
   filters:
