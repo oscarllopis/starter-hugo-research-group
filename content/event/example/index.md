@@ -31,11 +31,11 @@ image:
 url_code: ""
 all_day: false
 ---
+Inscripción a través del siguiente enlace:
 
-Slides can be added in a few ways:
+ <https://forms.gle/HcSWCYmK8zmzuFxB7>
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Datos de contacto: 
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+[anabel.fernandez@uv.es](mailto:anabel.fernandez@uv.es)\
+Telf. 685.11.37.48
