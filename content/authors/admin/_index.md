@@ -22,7 +22,7 @@ user_groups:
   - Researchers
 highlight_name: false
 title: Oscar Llopis
-email: ""
+email: oscar.llopis@uv.es
 ---
 <!--StartFragment-->
 
