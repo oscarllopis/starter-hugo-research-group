@@ -4,20 +4,14 @@ abstract: 'Nos complace invitarte al seminario de resultados del proyecto de
   directiva: capacidades empresariales, innovación y exportación."'
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: Seminario de resultados
 date_end: 2021-05-19T16:00:00.000Z
 event_url: https://zoom.us/j/91679647843?pwd=cE%20dkT0NnSW1lS0Y5QjZ1ZFRRQmhSZz09
 authors: []
 url_video: ""
 date: 2021-05-19T15:00:00.000Z
-featured: false
+featured: true
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 title: Seminario Online
 location: Zoom
 event: Seminario Online
