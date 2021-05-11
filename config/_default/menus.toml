@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Carta de servicios"
-  url = "carta"
+  name = "Nuestras soluciones"
+  url = "projects"
   weight = 30
 
 [[main]]
