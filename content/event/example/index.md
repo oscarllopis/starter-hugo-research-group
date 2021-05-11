@@ -7,7 +7,6 @@ url_pdf: ""
 summary: Seminario de resultados
 date_end: 2021-05-19T16:00:00.000Z
 event_url: https://zoom.us/j/91679647843?pwd=cE%20dkT0NnSW1lS0Y5QjZ1ZFRRQmhSZz09
-authors: []
 url_video: ""
 date: 2021-05-19T15:00:00.000Z
 featured: true
