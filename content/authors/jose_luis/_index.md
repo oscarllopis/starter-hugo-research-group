@@ -13,6 +13,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Joaquín Alegre
+title: Jose Luis Ferreras
 email: j.luis.ferreras@uv.es
 ---
