@@ -1,16 +1,18 @@
 ---
-title: José Luis Ferreras
 role: Profesor Contratado Doctor
-avatar_filename: avatar
-bio: Profesor Contratado Doctor
+bio: ""
 interests: []
-social: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:j.luis.ferreras@uv.es
 organizations:
   - name: Universidad de Valencia
-superuser: false
+    url: ""
+superuser: true
+user_groups:
+  - Researchers
+highlight_name: false
+title: Joaquín Alegre
+email: j.luis.ferreras@uv.es
 ---
-<!--StartFragment-->
-
-Añadir bio
-
-<!--EndFragment-->
