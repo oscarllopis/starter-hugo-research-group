@@ -15,8 +15,6 @@ social:
 organizations:
   - name: Universidad de Valencia
     url: ""
-education:
-  courses: []
 superuser: true
 user_groups:
   - Researchers
