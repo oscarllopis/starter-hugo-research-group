@@ -23,7 +23,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#666'  # An HTML color value.
-    overlay_img: bulb.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: coders.jpg  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -32,16 +32,21 @@ item:
     cta_url: 'soluciones'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
+  - title: Nuestras especialidades
+    content: 'Somos expertos en emprendimiento e innovación'
     align: left
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
-  - title: Right
+  - title: Seminario Online
     content: 'I am right aligned 😄'
     align: right
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+    cta_label: Apuntante aquí
+    cta_url: 'event/example'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+
 ---
