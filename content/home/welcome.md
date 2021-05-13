@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Presentation
 headless: true
-weight: 100
+weight: 10
 title: Empinnova - UV
 subtitle: Grupo de Investigación en Innovación y Emprendedurismo
 active: true
