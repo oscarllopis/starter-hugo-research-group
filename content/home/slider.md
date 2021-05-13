@@ -39,12 +39,12 @@ item:
     overlay_img: ''
     overlay_filter: 0.5
   - title: Seminario Online
-    content: ''
+    content: 'Competitividad de la Empresa Española a través de la gestión directiva'
     align: right
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
-    cta_label: Competitividad de la Empresa Española a través de la gestión directiva
+    cta_label: Mas info aquí
     cta_url: 'event/example'
     cta_icon_pack: fas
     cta_icon: graduation-cap
