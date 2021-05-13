@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Nuestras soluciones"
-  url = "soluciones"
+  url = "/projects"
   weight = 30
 
 [[main]]
