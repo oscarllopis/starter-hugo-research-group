@@ -4,7 +4,7 @@ external_link: ""
 image:
   focal_point: Smart
 slides: example
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Redes organizativas
 title: Diagnóstico y mejora de las redes organizativas

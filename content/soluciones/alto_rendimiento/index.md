@@ -4,7 +4,7 @@ external_link: ""
 image:
   focal_point: Smart
 slides: example
-summary: Desarrollo de líderes y equipos de alto rendimiento
+summary: 
 tags:
 - Alto rendimiento
 title: Desarrollo de líderes y equipos de alto rendimiento

@@ -4,7 +4,7 @@ external_link: ""
 image:
   focal_point: Smart
 slides: example
-summary: Transformación digital
+summary: 
 tags:
 - Transformación digital
 title: Diagnóstico, mejora y transformación digital del modelo de negocio de la empresa

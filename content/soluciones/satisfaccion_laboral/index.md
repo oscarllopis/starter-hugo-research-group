@@ -4,7 +4,7 @@ external_link: ""
 image:
   focal_point: Smart
 slides: example
-summary: Satisfacción laboral
+summary: 
 tags:
 - Satisfacción laboral
 title: Diagnóstico y mejora de la satisfacción laboral, el clima laboral y el compromiso organizativo
