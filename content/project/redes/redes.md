@@ -14,6 +14,7 @@ tags:
 - redes organizativas
 - analisis de redes sociales
 - potenciacion
+- redes
 ---
 
 En todas las organizaciones, se generan “equipos informales” de referencia, que frecuentemente no aparecen reflejados en el organigrama de la empresa. Algunos empleados confían en compañeros/as con amplia experiencia. Otros encuentran a un/a socio/a en el departamento de finanzas que responde sus cuestiones sobre los presupuestos, y algunos/as empleados/as resultan piezas clave para resolver dudas y cuestiones a sus compañeros/as. Estas conexiones informales y espontáneas son críticas para visualizar las comunicaciones, la información y las decisiones en una organización. Sin embargo, son difíciles de visualizar con las herramientas convencionales.
