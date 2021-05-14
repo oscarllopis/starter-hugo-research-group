@@ -13,4 +13,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-Somos un grupo de investigación en el Departamento de Dirección de Empresas de la Universidad de Valencia.
+Bienvenido/a al grupo de investigación EMPINNOVA. Somos un grupo de investigación del Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la innovación, el emprendimiento, la estrategia, el aprendizaje organizativo y la gestión del conocimiento. 
