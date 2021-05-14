@@ -1,13 +1,19 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: ""
-image: 'bulb.jpg'
+aliases: [innovacion]
+title: Capacidad de innovación 
+summary: Diagnóstico y potenciación de la capacidad de innovación de la empresa
+abstract: ""
+date: ""
+image:
+  caption: 
   focal_point: Smart
-slides: example
-summary: 
+
+categories:
+- innovacion
 tags:
 - innovacion
-title: Diagnóstico y potenciación de la capacidad de innovación de la empresa
+- diagnostico
+- potenciacion
 ---
 
 La capacidad de innovación es un elemento clave para la competitividad y la internacionalización de la empresa. Permite generar novedades con las que conquistar el mercado. También facilita el cambio organizativo para adaptarse a novedades que vienen del exterior de la propia empresa.
