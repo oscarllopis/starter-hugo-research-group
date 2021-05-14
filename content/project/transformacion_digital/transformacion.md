@@ -6,7 +6,7 @@ image:
 slides: example
 summary: 
 tags:
-- Transformación digital
+- transformacion
 title: Diagnóstico, mejora y transformación digital del modelo de negocio de la empresa
 ---
 

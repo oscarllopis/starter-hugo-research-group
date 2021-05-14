@@ -6,7 +6,7 @@ image:
 slides: example
 summary: 
 tags:
-- Alto rendimiento
+- lideres
 title: Desarrollo de líderes y equipos de alto rendimiento
 ---
 

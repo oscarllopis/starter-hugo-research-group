@@ -22,32 +22,28 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
 
   [[content.filter_button]]
-    name = "website"
-    tag = "website"
+    name = "Capacidad de innovación"
+    tag = "innovacion"
     
   [[content.filter_button]]
-    name = "R"
-    tag = "R"
+    name = "Transformación digital"
+    tag = "transformacion"
     
   [[content.filter_button]]
-    name = "Software"
-    tag = "software"
+    name = "Redes organizativas"
+    tag = "redes"
 
   [[content.filter_button]]
-    name = "Workshop"
-    tag = "workshop"
+    name = "Satisfacción laboral"
+    tag = "satisfaccion"
   
   [[content.filter_button]]
-    name = "Course"
-    tag = "course"
-    
-  [[content.filter_button]]
-    name = "Book"
-    tag = "book"
+    name = "Desarrollo de lideres"
+    tag = "lideres"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

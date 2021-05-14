@@ -6,7 +6,7 @@ image:
 slides: example
 summary: 
 tags:
-- Satisfacción laboral
+- satisfaccion
 title: Diagnóstico y mejora de la satisfacción laboral, el clima laboral y el compromiso organizativo
 ---
 Existe una preocupación entre las empresas más avanzadas en el ámbito de los recursos humanos en los últimos años: la satisfacción del trabajador como medio para lograr los objetivos de la empresa. Por ello, conceptos como clima laboral (o buen ambiente de trabajo), satisfacción laboral y compromiso organizativo están adquiriendo una mayor relevancia para la consecución de los objetivos económicos de las empresas.

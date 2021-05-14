@@ -6,7 +6,7 @@ image:
 slides: example
 summary: 
 tags:
-- Capacidad de Innovación
+- innovacion
 title: Diagnóstico y potenciación de la capacidad de innovación de la empresa
 ---
 
