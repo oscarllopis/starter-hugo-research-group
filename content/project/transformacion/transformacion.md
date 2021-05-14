@@ -1,13 +1,19 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: ""
+aliases: [transformacion]
+title: Transformación digital de la empresa 
+summary: Diagnóstico, mejora y transformación digital del modelo de negocio de la empresa
+abstract: ""
+date: ""
 image:
+  caption: 
   focal_point: Smart
-slides: example
-summary: 
+
+categories:
+- transformacion
 tags:
 - transformacion
-title: Diagnóstico, mejora y transformación digital del modelo de negocio de la empresa
+- digitalizacion
+- modelo de negocio
 ---
 
 El modelo de negocio viene determinado por los factores que explican por qué la empresa tiene ciertos clientes. ¿Qué motiva al cliente a elegir la empresa? ¿Por qué hay clientes-objetivo que no eligen la empresa? Estas son las preguntas básicas que hay detrás del modelo de negocio. Las respuestas giran en torno a elementos como: la estructura de costes, el saber hacer de la empresa (know-how) o los canales de distribución empleados, entre otros.
