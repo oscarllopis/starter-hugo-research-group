@@ -5,7 +5,7 @@ summary: Diagnóstico y potenciación de la capacidad de innovación de la empre
 abstract: ""
 date: ""
 image:
-  caption: 
+  caption: '[Photo by Daniel Cheung on Unsplash](https://unsplash.com/photos/sCdm5DiJb8w)'
   focal_point: Smart
 
 categories:
