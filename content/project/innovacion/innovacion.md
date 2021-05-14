@@ -4,10 +4,13 @@ title: Capacidad de innovación
 summary: Diagnóstico y potenciación de la capacidad de innovación de la empresa
 abstract: ""
 date: ""
-image:
-  caption: '[Photo by Daniel Cheung on Unsplash](https://unsplash.com/photos/sCdm5DiJb8w)'
-  focal_point: Smart
-
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 categories:
 - innovacion
 tags:
