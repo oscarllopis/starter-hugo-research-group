@@ -7,16 +7,16 @@ weight: 20
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: '5000'
+interval: '4000'
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 600px
+height: 900px
 
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: Soluciones para empresas
+    content: Ofrecemos servicios de consultoría relacionados con la innovación, las redes organizativas, el desarrollo de líderes, la satisfacción laboral y la transformación digital.
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -27,7 +27,7 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
+    cta_label: Descubre nuestras soluciones
     cta_url: 'https://example.org'
     cta_icon_pack: fas
     cta_icon: graduation-cap
@@ -44,4 +44,4 @@ item:
     overlay_img: ''
     overlay_filter: 0.5
 ---
-Bienvenido/a al grupo de investigación EMPINNOVA. Pertenecemos al Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la innovación, el emprendimiento, la estrategia, el aprendizaje organizativo y la gestión del conocimiento.  
+Bienvenido/a al grupo de investigación EMPINNOVA. Pertenecemos al Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la **innovación**, el **emprendimiento**, la **estrategia**, el **aprendizaje organizativo** y la **gestión del conocimiento**.  

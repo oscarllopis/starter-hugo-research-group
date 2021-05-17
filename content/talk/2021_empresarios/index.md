@@ -2,10 +2,10 @@
 title: Seminario Online 
 subtitle: 'Competitividad de la Empresa Española a través de la gestión  directiva'
 draft: false
-event: 'seminario de resultados'
+event: 'Seminario de resultados'
 event_url: https://zoom.us/j/91679647843?pwd=cE%20dkT0NnSW1lS0Y5QjZ1ZFRRQmhSZz09/
 location: online
-summary: "Seminario de resultados"
+summary: "Competitividad de la Empresa Española a través de la gestión  directiva"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -39,7 +39,7 @@ image:
 projects: []
 ---
 
-Nos complace invitarte al seminario de resultados del proyecto de investigación "Competitividad de la Empresa Española a través de la gestión   directiva: capacidades empresariales, innovación y exportación.
+Nos complace invitarte al seminario de resultados del proyecto de investigación "Competitividad de la Empresa Española a través de la gestión directiva: capacidades empresariales, innovación y exportación".
 Datos de contacto: 
 [anabel.fernandez@uv.es](mailto:anabel.fernandez@uv.es)\
 Telf. 685.11.37.48
