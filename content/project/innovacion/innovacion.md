@@ -5,9 +5,10 @@ summary: Diagnóstico y potenciación de la capacidad de innovación de la empre
 abstract: ""
 date: ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: [featured]
+image: 
   caption: Caption here
-  focal_point: Smart
+  focal_point: ""
+  preview_only: false
   
 categories:
 - innovacion
