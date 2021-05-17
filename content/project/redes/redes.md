@@ -4,6 +4,7 @@ title: Redes organizativas
 summary: Diagnóstico y mejora de las redes organizativas
 abstract: ""
 date: ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 
   focal_point: Smart
