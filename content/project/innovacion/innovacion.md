@@ -5,8 +5,8 @@ summary: Diagnóstico y potenciación de la capacidad de innovación de la empre
 abstract: ""
 date: ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: 'bulb.jpg'
-  caption: 
+image: bulb.jpg
+  caption: Caption here
   focal_point: Smart
   
 categories:
