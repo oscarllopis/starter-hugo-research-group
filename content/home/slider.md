@@ -22,7 +22,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     #   overlay_color: '#666'  # An HTML color value.
-    overlay_img: creative.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: solutions.jpg  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
@@ -31,7 +31,7 @@ item:
     cta_url: '/projects/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: Left
+  - title: Right
     content: 'I am left aligned 😄'
     align: center
     overlay_color: '#555'
