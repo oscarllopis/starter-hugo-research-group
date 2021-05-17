@@ -11,7 +11,7 @@ interval: '5000'
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 300px
+height: 600px
 
 
 item:
@@ -44,4 +44,4 @@ item:
     overlay_img: ''
     overlay_filter: 0.5
 ---
-Bienvenido/a al grupo de investigación EMPINNOVA. Somos un grupo de investigación del Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la innovación, el emprendimiento, la estrategia, el aprendizaje organizativo y la gestión del conocimiento. 
+Bienvenido/a al grupo de investigación EMPINNOVA. Pertenecemos al Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la innovación, el emprendimiento, la estrategia, el aprendizaje organizativo y la gestión del conocimiento.  
