@@ -28,7 +28,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: Descubre nuestras soluciones
-    cta_url: 'https://example.org'
+    cta_url: '/projects/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Left
