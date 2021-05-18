@@ -14,7 +14,7 @@ external_link: https://empinnova.netlify.app/project/innovacion/innovacion/
 image:
   caption: Caption here
   focal_point: ""
-  preview_only: false
+  preview_only: true
 aliases:
   - innovacion
 ---
