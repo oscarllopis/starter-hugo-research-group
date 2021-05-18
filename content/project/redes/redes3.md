@@ -1,45 +1,28 @@
-+++
-title = "Redes organizativas"
-date = ""
-draft = false
+---
+aliases: [redes]
+title: Redes organizativas 
+summary: Diagnóstico y mejora de las redes organizativas
+abstract: ""
+date: ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 
+  focal_point: Smart
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["redes organizativas", "analisis de redes sociales", "potenciacion", "redes"]
-
-# Project summary to display on homepage.
-summary = "Diagnóstico y mejora de las redes organizativas"
-
-# Optional image to display on homepage.
-#image_preview = "cemracs_2016.jpeg"
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Does the project detail page use source code highlighting?
-highlight = true
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  # caption = "Photo by Toa Heftiba on Unsplash"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "center"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+categories:
+- redes
+tags:
+- redes organizativas
+- analisis de redes sociales
+- potenciacion
+- redes
+---
 
 En todas las organizaciones, se generan “equipos informales” de referencia, que frecuentemente no aparecen reflejados en el organigrama de la empresa. Algunos empleados confían en compañeros/as con amplia experiencia. Otros encuentran a un/a socio/a en el departamento de finanzas que responde sus cuestiones sobre los presupuestos, y algunos/as empleados/as resultan piezas clave para resolver dudas y cuestiones a sus compañeros/as. Estas conexiones informales y espontáneas son críticas para visualizar las comunicaciones, la información y las decisiones en una organización. Sin embargo, son difíciles de visualizar con las herramientas convencionales.
 
 > El análisis de redes organizativas (ONA) es una forma estructurada de visualizar cómo fluyen las comunicaciones, la información y las decisiones en una organización. Estas redes organizativas están formadas por nodos y vínculos, que son la base para comprender cómo fluye, puede y debe fluir la información en su organización.
+
+![Red social](/static/media/network.jpg)
 
 Se ofrecen dos servicios relacionados con el análisis de redes organizativas.
 

@@ -10,7 +10,6 @@ tags:
   - potenciacion
 categories:
   - innovacion
-external_link: '""'
 image:
   caption: Caption here
   focal_point: ""
