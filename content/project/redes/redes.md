@@ -33,7 +33,14 @@ highlight = true
   focal_point = "center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 
 +++
 
