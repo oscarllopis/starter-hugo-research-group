@@ -1,21 +1,22 @@
 ---
-aliases: [innovacion]
-title: Capacidad de innovación 
-summary: Diagnóstico y potenciación de la capacidad de innovación de la empresa
 abstract: ""
-date: ""
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image: 
+title: Capacidad de innovación
+date: 2021-05-18T10:30:00.409Z
+summary: Diagnóstico y potenciación de la capacidad de innovación de la empresa
+featured: true
+tags:
+  - innovacion
+  - diagnostico
+  - potenciacion
+categories:
+  - innovacion
+external_link: https://empinnova.netlify.app/project/innovacion/innovacion/
+image:
   caption: Caption here
   focal_point: ""
   preview_only: false
-  
-categories:
-- innovacion
-tags:
-- innovacion
-- diagnostico
-- potenciacion
+aliases:
+  - innovacion
 ---
 
 La capacidad de innovación es un elemento clave para la competitividad y la internacionalización de la empresa. Permite generar novedades con las que conquistar el mercado. También facilita el cambio organizativo para adaptarse a novedades que vienen del exterior de la propia empresa.
