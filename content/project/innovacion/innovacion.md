@@ -10,7 +10,7 @@ tags:
   - potenciacion
 categories:
   - innovacion
-external_link: https://empinnova.netlify.app/project/innovacion/innovacion/
+external_link: '""'
 image:
   caption: Caption here
   focal_point: ""
