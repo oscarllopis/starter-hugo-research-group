@@ -22,7 +22,7 @@ En todas las organizaciones, se generan “equipos informales” de referencia, 
 
 > El análisis de redes organizativas (ONA) es una forma estructurada de visualizar cómo fluyen las comunicaciones, la información y las decisiones en una organización. Estas redes organizativas están formadas por nodos y vínculos, que son la base para comprender cómo fluye, puede y debe fluir la información en su organización.
 
-![Red social](network.jpg)
+![Red social](/static/media/network.jpg)
 
 Se ofrecen dos servicios relacionados con el análisis de redes organizativas.
 
