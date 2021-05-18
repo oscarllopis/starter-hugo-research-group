@@ -32,13 +32,13 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   - title: Right
-    content: 'I am left aligned 😄'
+    content: Quienes somos
     align: center
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
   - title: Right
-    content: 'I am right aligned 😄'
+    content: Eventos
     align: center
     overlay_color: '#333'
     overlay_img: ''
