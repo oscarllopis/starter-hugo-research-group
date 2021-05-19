@@ -13,7 +13,6 @@ interval: '4000'
 # Specify a height to ensure a consistent height for each slide.
 height: 600px
 
-
 item:
   - title: Soluciones para empresas
     content: Ofrecemos servicios de consultoría relacionados con la innovación, las redes organizativas, el desarrollo de líderes, la satisfacción laboral y la transformación digital.
@@ -31,17 +30,26 @@ item:
     cta_url: '/projects/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
-  - title: Right
-    content: Quienes somos
+  - title: Quienes somos
+    content: Equipo de investigación EMPINNOVA
     align: center
     overlay_color: '#555'
     overlay_img: ''
     overlay_filter: 0.5
-  - title: Right
-    content: Eventos
+    cta_label: Conocenos
+    cta_url: '/people/'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Eventos y novedades
+    content: Consulta los últimos eventos organizados por EMPINNOVA
     align: center
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+    cta_label: Eventos y novedades
+    cta_url: '/talks/'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+
 ---
 Bienvenido/a al grupo de investigación EMPINNOVA. Pertenecemos al Departamento de Dirección de Empresas de la **Universidad de Valencia** (Facultad de Economía). Nuestras áreas de experiencia son la **innovación**, el **emprendimiento**, la **estrategia**, el **aprendizaje organizativo** y la **gestión del conocimiento**.  
