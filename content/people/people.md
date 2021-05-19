@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Quienes Somos
-subtitle:
+subtitle: Equipo de investigación EMPINNOVA
 
 content:
   # Choose which groups/teams of users to display.
