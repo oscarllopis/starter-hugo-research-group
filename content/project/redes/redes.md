@@ -24,7 +24,7 @@ highlight = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-![image](featured.jpg)
+`featured.jpg`
   # Caption (optional)
   # caption = "Photo by Toa Heftiba on Unsplash"
 
